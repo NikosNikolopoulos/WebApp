@@ -11,3 +11,6 @@
 - Generate DB tables based on classes
 - DB updated using migrations
 - Entity Framework is MSFT's ORM
+
+## Refences
+- https://study-coding.teachable.com/courses/
