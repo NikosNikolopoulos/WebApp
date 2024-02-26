@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nnikolopoulos\\OneDrive - Systemorph\\Documents\\WebAppRepo\\WebApp\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\nnikolopoulos\\OneDrive - Systemorph\\Documents\\Repos\\WebAppRepo\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nnikolopoulos\\OneDrive - Systemorph\\Documents\\WebAppRepo\\WebApp\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\nnikolopoulos\\OneDrive - Systemorph\\Documents\\Repos\\WebAppRepo\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nnikolopoulos\\OneDrive - Systemorph\\Documents\\WebAppRepo\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\nnikolopoulos\\OneDrive - Systemorph\\Documents\\Repos\\WebAppRepo\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\nnikolopoulos\\OneDrive - Systemorph\\Documents\\WebAppRepo\\WebApp\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\nnikolopoulos\\OneDrive - Systemorph\\Documents\\Repos\\WebAppRepo\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\nnikolopoulos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nnikolopoulos\\OneDrive - Systemorph\\Documents\\WebAppRepo\\WebApp\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\nnikolopoulos\\OneDrive - Systemorph\\Documents\\Repos\\WebAppRepo\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nnikolopoulos\\AppData\\Roaming\\NuGet\\NuGet.Config",
